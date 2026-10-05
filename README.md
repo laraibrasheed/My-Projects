@@ -51,4 +51,4 @@ Author
 Laraib Rasheed
 Built as a personal Python project while learning programming and problem solving.
 
-I will feel very grateful to have your suggestion.
+Feedback welcome.
