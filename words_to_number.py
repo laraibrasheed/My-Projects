@@ -21,8 +21,7 @@ def words_to_number(text):
             perform *= multipliers[word]
             total += perform
             perform = 0
-        elif word == "and":
-            continue
+        elif word == "and": continue
         else:
             raise ValueError(f"Unknown word: {word}")
     return total + perform
